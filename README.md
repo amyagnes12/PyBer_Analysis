@@ -8,7 +8,6 @@ The purpose of this project is to find the differences of PyBer's ride sharing d
 Urban has the highest number of total rides, total drivers, and total fares, and it has the lowest average fare per ride and the average fare per driver. Suburban has the next highest number of total rides, total drivers, and total fares, and it has the next lowest average fare per ride and the average fare per driver. Finally, rural has the lowest number of total rides, total drivers, and total fares and it has the highest average fare per ride and the average fare per driver. 
 
 	- PyBer summary
-	
 	![pyber_summary](Resources/pyber_summary.png)
 
 ## Summary
